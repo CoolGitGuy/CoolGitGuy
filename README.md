@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoolGitGuy
 - 👀 I’m interested in Gym and Chess
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Kotlin
 - ⚡ Fun fact: I listen to music sometimes
 
 <!---
